@@ -10,3 +10,5 @@ The code will spit out a summary of your workout plus a rough estimate on how ma
 ## Code Review
 - **Reviewed by:** Arjo Rosato
 - **Status:** Checked code. Inheritance (`extends`), Scanner input, and calorie calculations are all correct and working!
+
+-Verified by Nicholas Cheng
