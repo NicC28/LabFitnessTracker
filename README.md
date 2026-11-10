@@ -1,6 +1,6 @@
 # LabFitnessTracker
 
-## Instrcutions
+## Instructions
 Enter your workout type, duration, and distance
 
 ## Result
